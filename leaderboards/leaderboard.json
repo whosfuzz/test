@@ -130,5 +130,159 @@
         }
       ]
     }
+  ],
+  "week5, pool 1, game 1": [
+    {
+      "team_name": "TEAM 1",
+      "placement": 1,
+      "placement_points": 10,
+      "kills": 8,
+      "kill_points": 8,
+      "damage_dealt": 13242,
+      "damage_points": 13,
+      "total_points": 31,
+      "players": [
+        {
+          "name": "Pres. Tanaka",
+          "kills": 7,
+          "damage_dealt": 7302
+        },
+        {
+          "name": "副 Vices",
+          "kills": 0,
+          "damage_dealt": 4140
+        },
+        {
+          "name": "Skmilli901",
+          "kills": 1,
+          "damage_dealt": 1800
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM 4",
+      "placement": 2,
+      "placement_points": 8,
+      "kills": 3,
+      "kill_points": 3,
+      "damage_dealt": 9588,
+      "damage_points": 9,
+      "total_points": 20,
+      "players": [
+        {
+          "name": "副 HEADSHOT",
+          "kills": 3,
+          "damage_dealt": 7082
+        },
+        {
+          "name": "Dabi'sBurntCum",
+          "kills": 0,
+          "damage_dealt": 2506
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM 5",
+      "placement": 3,
+      "placement_points": 6,
+      "kills": 6,
+      "kill_points": 6,
+      "damage_dealt": 12333,
+      "damage_points": 12,
+      "total_points": 24,
+      "players": [
+        {
+          "name": "MoonlitLarrion",
+          "kills": 2,
+          "damage_dealt": 1731
+        },
+        {
+          "name": "FunnyValentine",
+          "kills": 3,
+          "damage_dealt": 5661
+        },
+        {
+          "name": "Reeceate",
+          "kills": 1,
+          "damage_dealt": 4941
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM 6",
+      "placement": 4,
+      "placement_points": 4,
+      "kills": 3,
+      "kill_points": 3,
+      "damage_dealt": 9048,
+      "damage_points": 9,
+      "total_points": 16,
+      "players": [
+        {
+          "name": "CÛMQUEST",
+          "kills": 3,
+          "damage_dealt": 5210
+        },
+        {
+          "name": "MinecraftMax",
+          "kills": 0,
+          "damage_dealt": 3838
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM 2",
+      "placement": 5,
+      "placement_points": 2,
+      "kills": 0,
+      "kill_points": 0,
+      "damage_dealt": 6171,
+      "damage_points": 6,
+      "total_points": 8,
+      "players": [
+        {
+          "name": "CSEN jacey ツ",
+          "kills": 0,
+          "damage_dealt": 0
+        },
+        {
+          "name": "Rage9891",
+          "kills": 0,
+          "damage_dealt": 6171
+        },
+        {
+          "name": "Kimsu Kale",
+          "kills": 0,
+          "damage_dealt": 0
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM 3",
+      "placement": 6,
+      "placement_points": 0,
+      "kills": 1,
+      "kill_points": 1,
+      "damage_dealt": 7698,
+      "damage_points": 7,
+      "total_points": 8,
+      "players": [
+        {
+          "name": "Overhaul's Ass",
+          "kills": 1,
+          "damage_dealt": 3066
+        },
+        {
+          "name": "Lethal One",
+          "kills": 0,
+          "damage_dealt": 4228
+        },
+        {
+          "name": "lay.",
+          "kills": 0,
+          "damage_dealt": 404
+        }
+      ]
+    }
   ]
 }
